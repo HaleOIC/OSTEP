@@ -1,4 +1,4 @@
-**My own solution is in `[./Solution.md](https://github.com/HaleOIC/OSTEP/blob/main/homeworks/file-disks/Solution.md)`**
+**My own solution is in** [./Solution.md](https://github.com/HaleOIC/OSTEP/blob/main/homeworks/file-disks/Solution.md)
 # Overview
 
 This homework uses `disk.py` to familiarize you with how a modern hard
