@@ -2,10 +2,7 @@
 
 from __future__ import print_function
 from __future__ import division
-try:
-    from Tkinter import *
-except:
-    from tkinter import *
+from tkinter import *
 from types import *
 import math, random, time, sys, os
 from optparse import OptionParser
